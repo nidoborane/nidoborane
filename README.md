@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nidoborane
+- 👋 Hi, I’m Varun
 - 👀 I’m interested in python and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on cool projects
